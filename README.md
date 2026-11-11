@@ -98,7 +98,7 @@ Open a serial monitor at 115200 baud to see game-over events and a frame-rate su
 
 ## How I built this
 
-I designed the game and its rules, and built it with Claude Code as a pair programmer. Claude helped with the parts that were new to me: sound effects, battery level display, and auto power-off. I reviewed and tested each feature on the device.
+I designed both games and their rules, and built them with Claude Code as a pair programmer. Claude helped with the parts that were new to me: sound effects, graphics and animation, the game selector, battery level display, and auto power-off. I reviewed and tested each feature on the device.
 
 ## Future ideas
 
