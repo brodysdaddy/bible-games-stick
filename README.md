@@ -96,6 +96,10 @@ If the upload can't connect, hold the side button about 2 seconds until the gree
 
 Open a serial monitor at 115200 baud to see game-over events and a frame-rate summary every 30 seconds. While the game selector is showing, send `b` to run a 60-second benchmark. The stick plays the tower game by itself and reports how long each part of a frame takes.
 
+## How I built this
+
+I designed the game and its rules, and built it with Claude Code as a pair programmer. Claude helped with the parts that were new to me: sound effects, battery level display, and auto power-off. I reviewed and tested each feature on the device.
+
 ## Future ideas
 
 - **Voice answers** for trivia, using the stick's microphone.
