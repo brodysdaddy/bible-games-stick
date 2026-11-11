@@ -1,0 +1,18 @@
+# Build outputs
+build/
+*.bin
+*.elf
+*.map
+*.o
+*.exe
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Editors / OS
+.vscode/
+.vs/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
